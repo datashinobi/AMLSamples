@@ -1,4 +1,4 @@
-# AML-samples
+# Deprecrated Active at  https://github.com/microsoft/MLOps/tree/master/examples
 
 This repository provides examples as jupyter notebooks on how to use Azure Machine learning service python SDK.
 In order to get started with Azure Machine learning SDK, We highly recommend to go through the tutorials and samples in [Azure ML official repo](https://github.com/Azure/MachineLearningNotebooks) first.
